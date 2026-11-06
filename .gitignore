@@ -1,0 +1,9 @@
+
+# Secretos y archivos generados (no subir)
+bin/**
+!bin/Debug/
+!bin/Debug/U.json
+obj/
+.vs/
+packages/
+*.user
